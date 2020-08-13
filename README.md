@@ -38,6 +38,23 @@
     - 同理，在交易流转的过程中，数字货币的分布式账本（数据库）同样起到了记录数据的记录，交易，和使用。
 
 
+## Interesting application
+* Use Crypto as login intead of FB or User/Pass/or old fashioned OAUTH protocol
+... - using crypto wallet to login into apps wihout giving up identity or privacy
+... - using digital signature as alternative to old login mechanisim
+### 
+* Any application requried or could take advantage of open state or open execution 
+database
+* Incorportate on Chain, which is similar to Stripe Atlas
+
+
+## Problem to Solve
+* How to unblock transactions with increasing trasaction volume?
+* How to safely secure crypto assests, in theory, as long as there's 
+internent connection, malware could extrude system. Cold offline hardware
+seems the valid option but add friction in trasaction.
+
 
 ## Reference:
 * [a16z: Cryptoschool -> includes videos and white papers](https://a16z.com/crypto-startup-school/)
+* [Stipe: future of payments](https://www.youtube.com/watch?v=hta9-Ja2HQc)
