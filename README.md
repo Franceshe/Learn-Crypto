@@ -9,6 +9,7 @@
 - key people:
     - Jed McCaleb: Co founder of Stellar Development Foundation
     - [Hanjian Xie](https://www.linkedin.com/in/janhxie/?originalSubdomain=cn)
+	- [Balaji S. Srinivasan](https://www.linkedin.com/in/balajissrinivasan/) 
 	
 - [[DAO]]:
     - decentralized autonomous organization, or a DAO
